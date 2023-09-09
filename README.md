@@ -8,6 +8,9 @@
 <br>
 ![Unity](https://img.shields.io/badge/unity-%23239120.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+<br>
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 <!--
 **jimxcds/jimxcds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
