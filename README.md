@@ -1,5 +1,12 @@
-### Hi there 👋
+### Big time C# fan
 
+# I use:
+![C#](https://img.shields.io/badge/c%23-9a4993.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+<br>
+![Rider](https://img.shields.io/badge/Rider-da4643?style=for-the-badge&logo=Rider&logoColor=white)
+<br>
+![Unity](https://img.shields.io/badge/unity-%23239120.svg?style=for-the-badge&logo=unity&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 <!--
 **jimxcds/jimxcds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
