@@ -12,10 +12,14 @@
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 
-> ____  __  ___    ____  __  _  _  ____     ___  _  _    ____  __   __ _ 
->(  _ \(  )/ __)  (_  _)(  )( \/ )(  __)   / __)/ )( \  (  __)/ _\ (  ( \
-> ) _ ( )(( (_ \    )(   )( / \/ \ ) _)   ( (__ )    (   ) _)/    \/    /
->(____/(__)\___/   (__) (__)\_)(_/(____)   \___)\_)(_/  (__) \_/\_/\_)__)
+ ____  __  ___    ____  __  _  _  ____     ___  _  _    ____  __   __ _ 
+<br>
+(  _ \(  )/ __)  (_  _)(  )( \/ )(  __)   / __)/ )( \  (  __)/ _\ (  ( \
+<br>
+ ) _ ( )(( (_ \    )(   )( / \/ \ ) _)   ( (__ )    (   ) _)/    \/    /
+<br>
+(____/(__)\___/   (__) (__)\_)(_/(____)   \___)\_)(_/  (__) \_/\_/\_)__)
+<br>
 <!--
 **jimxcds/jimxcds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
