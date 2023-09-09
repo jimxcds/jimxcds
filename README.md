@@ -13,12 +13,6 @@
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 
 ```
-function test() {
-  console.log("notice the blank line before this function?");
-}
-```
-
-```
 ‎ ____‎ ‎ __‎ ‎ ___‎ ‎ ‎ ‎ ____‎ ‎ __‎ ‎ _‎ ‎ _‎ ‎ ____‎ ‎ ‎ ‎ ‎ ___‎ ‎ _‎ ‎ _‎ ‎ ‎ ‎ ____‎ ‎ __‎ ‎ ‎ __‎ _‎ 
 (‎‎ ‎ _‎‎ \(‎‎ ‎ )/‎‎ __)‎‎ ‎ (_‎ ‎ _)(‎ ‎ )(‎ \/‎ )(‎ ‎ __)‎ ‎ ‎ /‎ __)/‎ )(‎ \‎ ‎ (‎ ‎ __)/‎ _\‎ (‎ ‎ (‎ \
 ‎ )‎ _‎ (‎ )((‎ (_‎ \‎ ‎ ‎ ‎ )(‎ ‎ ‎ )(‎ /‎ \/‎ \‎ )‎ _)‎ ‎ ‎ (‎ (__‎ )‎ ‎ ‎ ‎ (‎ ‎ ‎ ) _)/‎ ‎ ‎ ‎ \/‎ ‎ ‎ ‎ /
