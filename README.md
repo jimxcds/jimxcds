@@ -1,9 +1,10 @@
-### Big time C# fan
+# Big time C# fan
 
-# I use:
+### I use:
 ![C#](https://img.shields.io/badge/c%23-9a4993.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 <br>
 ![Rider](https://img.shields.io/badge/Rider-da4643?style=for-the-badge&logo=Rider&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 <br>
 ![Unity](https://img.shields.io/badge/unity-%23239120.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
